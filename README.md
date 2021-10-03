@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Tejaswi Kumar, a programmer who loves to solve real life-based problems.
+### Hi there 👋, I'm Navansh Goel, a programmer who aspires to change the world with code.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/NavanshGoel)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/navanshgoel/)
@@ -25,7 +25,7 @@
 
 <p>
   <a href="https://github-readme-stats.vercel.app/api?username=NavanshGoel&show_icons=true&hide_border=true" target="_blank">
-    <img width="55%" align="right" alt="Tejaswi's github stats" src="https://github-readme-stats.vercel.app/api?username=NavanshGoel&show_icons=true&hide_border=true&theme=dracula" />
+    <img width="55%" align="right" alt="Navansh's github stats" src="https://github-readme-stats.vercel.app/api?username=NavanshGoel&show_icons=true&hide_border=true&theme=tokyonight" />
   </a>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
