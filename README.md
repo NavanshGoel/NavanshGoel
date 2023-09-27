@@ -13,8 +13,8 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- ⚡️ I'm currently pursuing my Undergraduate Degree (B.Tech.) in Computer Science and Engineering with Spec. in Cyber Physical Systems at Vellore Institute of Technology
-- 👨🏽‍💻 I’m also a Research Intern at IIT Kanpur and NUS, Singapore
+- ⚡️ I'm currently pursuing my Masters in Computer Science at the University of California San Diego. I completed my Undergraduate Degree (B.Tech.) in Computer Science and Engineering with Spec. in Cyber Physical Systems at Vellore Institute of Technology, India
+- 👨🏽‍💻 I’m also an ex-Research Intern at IIT Kanpur and NUS, Singapore
 - 💬 Feel free to contact me regarding anything
 - 📫 How to reach me: navansh.goel@gmail.com or feel free to say hi on Linkedin: https://www.linkedin.com/in/navanshgoel/
 - 👀 You can visit my Research Work Portfolio: <a href="https://scholar.google.co.in/citations?user=9kD0S9sAAAAJ&hl=en" target="_blank">https://scholar.google.co.in/citations?user=9kD0S9sAAAAJ&hl=en"</a>
