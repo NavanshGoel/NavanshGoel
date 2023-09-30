@@ -13,7 +13,7 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- ⚡️ I'm currently pursuing my Masters in Computer Science at the University of California San Diego. I completed my Undergraduate Degree (B.Tech.) in Computer Science and Engineering with Spec. in Cyber Physical Systems at Vellore Institute of Technology, India
+- ⚡️ I'm currently pursuing my Masters in Computer Science at the <a href="https://www.linkedin.com/school/ucsandiego/" target="_blank">University of California San Diego</a>. I completed my Undergraduate Degree (B.Tech.) in Computer Science and Engineering with Spec. in Cyber Physical Systems at Vellore Institute of Technology, India
 - 👨🏽‍💻 I’m also an ex-Research Intern at IIT Kanpur and NUS, Singapore where I worked on NLP (Semantic Models for Information Retrieval) and Music Segmentation respectively
 - 💬 Feel free to contact me regarding anything
 - 📫 How to reach me: n3goel@ucsd.edu or feel free to say hi on Linkedin: https://www.linkedin.com/in/navanshgoel/
